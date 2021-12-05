@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](#)
-- [Live Site](#)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-YXbloDRT2)
+- [Live Site](https://upbeat-aryabhata-a99247.netlify.app/)
 
 ## My process
 
