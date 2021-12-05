@@ -31,8 +31,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     font-size: 1rem;
+}
+
+.main-component{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .card{
@@ -172,4 +179,24 @@ body{
         flex-direction: column;
         min-height: 200px;
     }
+}
+
+
+
+/* attribution */
+.att-a{
+    color: var(--Soft-violet);
+}
+.att-a:hover{
+    text-decoration: none;
+}
+
+.attribution-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.att-p{
+    margin-right: 5px;
 }
